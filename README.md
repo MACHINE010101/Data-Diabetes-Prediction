@@ -1,7 +1,5 @@
 # Data Diabetes prediction
-
-
-
+### Author: Eduard Pascale
 
 ## Data set
 
